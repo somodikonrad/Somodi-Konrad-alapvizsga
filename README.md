@@ -1,1 +1,1 @@
-# Somodi-Konrad-alapvizsga
+# Alapvizsga_web_2022m-jus
